@@ -1,6 +1,4 @@
-### Hi there
 
-<!--
 **douggg
 
 -🔭 atualmente estou estudando  `HTML` e `CSS`.
