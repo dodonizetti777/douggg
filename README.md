@@ -9,4 +9,4 @@
 - 💻 estou trabalhando em um projecto de HTML.
 
 
-https://i.imgur.com/6FO692S.gif
+![](https://i.imgur.com/6FO692S.gif)
